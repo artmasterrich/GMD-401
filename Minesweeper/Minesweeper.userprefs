@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\Mike Reynolds Project\Open The Door\Assets\Scripts\Open Doors\Door.cs">
+    <Files>
+      <File FileName="..\..\Mike Reynolds Project\Open The Door\Assets\Scripts\Open Doors\Door.cs" Line="28" Column="8" />
+      <File FileName="..\..\Mike Reynolds Project\Open The Door\Assets\Scripts\Open Doors\DoorOpener.cs" Line="19" Column="8" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
